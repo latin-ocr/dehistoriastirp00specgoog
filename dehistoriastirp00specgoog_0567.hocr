@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehistoriastirp00specgoog_0567.png"; bbox 0 0 7625 12234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 355 11185 527 11222">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 355 11185 527 11222">
+     <span class='ocr_line' id='line_1_1' title="bbox 512 11187 527 11222; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 512 11187 527 11222; x_wconf 61' lang='lat' dir='ltr'><strong>oi</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 494 11187 508 11219; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 494 11187 508 11219; x_wconf 79' lang='lat'>&gt;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 457 11187 490 11221; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 457 11187 490 11221; x_wconf 70' lang='grc' dir='ltr'>Ξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 437 11185 453 11220; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 437 11185 453 11220; x_wconf 70' lang='lat'><strong>&lt;9</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 395 11187 415 11219; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 395 11187 415 11219; x_wconf 52' lang='grc' dir='ltr'><strong>,ἕ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 378 11185 392 11218; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 378 11185 392 11218; x_wconf 67' lang='lat'><strong>&gt;-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 355 11187 375 11221; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 355 11187 375 11221; x_wconf 71' lang='grc' dir='ltr'><strong>τε</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 3840 12228">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 3840 12228">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 3840 12228; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 3840 12228; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

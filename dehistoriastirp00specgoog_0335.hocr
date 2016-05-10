@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehistoriastirp00specgoog_0335.png"; bbox 0 0 7625 12234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1200 7977 1401 8024">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1200 7977 1401 8024">
+     <span class='ocr_line' id='line_1_1' title="bbox 1376 7984 1401 8024; baseline 40 -480"><span class='ocrx_word' id='word_1_1' title='bbox 1376 7984 1401 8024; x_wconf 62' lang='lat' dir='ltr'><em>M.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1347 7983 1372 8016"><span class='ocrx_word' id='word_1_2' title='bbox 1347 7983 1372 8016; x_wconf 63' lang='lat' dir='ltr'><strong>w</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1330 7983 1342 8016"><span class='ocrx_word' id='word_1_3' title='bbox 1330 7983 1342 8016; x_wconf 86' lang='lat' dir='ltr'>L</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1309 7985 1326 8018"><span class='ocrx_word' id='word_1_4' title='bbox 1309 7985 1326 8018; x_wconf 81' lang='lat' dir='ltr'>O</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1293 7986 1305 8018"><span class='ocrx_word' id='word_1_5' title='bbox 1293 7986 1305 8018; x_wconf 74' lang='lat' dir='ltr'>F</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1264 7985 1288 8019"><span class='ocrx_word' id='word_1_6' title='bbox 1264 7985 1288 8019; x_wconf 72' lang='grc' dir='ltr'><em>Ἠ..</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1230 7986 1262 8019"><span class='ocrx_word' id='word_1_7' title='bbox 1230 7986 1262 8019; x_wconf 63' lang='lat' dir='ltr'>M</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1200 7977 1209 7984"><span class='ocrx_word' id='word_1_8' title='bbox 1200 7977 1209 7984; x_wconf 54' lang='grc' dir='ltr'><em>ψ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 3818 12234">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 3818 12234">
+     <span class='ocr_line' id='line_1_9' title="bbox 0 0 3818 12234"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 3818 12234; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

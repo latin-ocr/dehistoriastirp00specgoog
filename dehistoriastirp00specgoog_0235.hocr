@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehistoriastirp00specgoog_0235.png"; bbox 0 0 7625 12234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 195 11445 448 11500">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 195 11445 448 11500">
+     <span class='ocr_line' id='line_1_1' title="bbox 195 11447 222 11500; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 195 11447 222 11500; x_wconf 65' lang='lat' dir='ltr'>nu</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 229 11448 251 11498; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 229 11448 251 11498; x_wconf 60' lang='grc' dir='ltr'>Η</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 261 11445 288 11496; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 261 11445 288 11496; x_wconf 63' lang='lat' dir='ltr'>Va</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 296 11453 320 11499; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 296 11453 320 11499; x_wconf 76' lang='lat' dir='ltr'>V</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 328 11449 356 11499; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 328 11449 356 11499; x_wconf 80' lang='lat' dir='ltr'>N</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 363 11449 409 11498; textangle 180"><span class='ocrx_word' id='word_1_6' title='bbox 363 11449 409 11498; x_wconf 77' lang='lat' dir='ltr'><strong>M</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 416 11449 448 11498; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 416 11449 448 11498; x_wconf 70' lang='grc' dir='ltr'>Ν</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 3818 12234">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 3818 12234">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 3818 12234; textangle 180"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 3818 12234; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
